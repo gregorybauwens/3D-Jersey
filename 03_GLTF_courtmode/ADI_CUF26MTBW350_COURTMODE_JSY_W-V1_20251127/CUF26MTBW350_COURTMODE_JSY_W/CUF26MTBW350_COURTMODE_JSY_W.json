@@ -1,0 +1,49 @@
+{
+	"uiSettings": {
+		"enableTooltips": false,
+		"enableClickToConfigure": true
+	},
+	"scene": {
+		"vignette": 0,
+		"hdr": "Industrial_Building_Interior.hdr"
+		"gamma": true,
+		"hdrBackground": false,
+		"exposure": 1,
+		"rotation": 260,
+		"fxaa": false
+	},
+	"loadingStrategies": [
+		{
+			"minScreenSize": 0,
+			"lod": [
+				{
+					"model": "RB-v4",
+					"textures": "RB-v4"
+				}
+			]
+		}
+	],
+	"materials":
+	[
+		{
+			"name": "Logo_MAT",
+			"type": "MeshPhysicalMaterial",
+			"color": 1 1 1,
+			"map": "LogoNOtext_Base_Color.png",
+			"opacity": 1,
+			"metalness": 0,
+			"metalnessMap": null,
+			"roughness": 0.9715909362,
+			"roughnessMap": null,
+			"occlusion": 1,
+			"aoMap": null,
+			"normal": 1,
+			"normalMap": null,
+			"emissive": 0,
+			"emissive_map": null,
+			"reflectivity": 1,
+			"envMapIntensity": 1.8,
+			"iridescent": False
+		},
+	],
+}

@@ -1,0 +1,2927 @@
+{
+    "asset": {
+        "copyright": "(C)2025 Jaibana",
+        "generator": "maya2glTF master b418fbe",
+        "version": "2.0"
+    },
+    "scenes": [
+        {
+            "nodes": [
+                0
+            ]
+        }
+    ],
+    "scene": 0,
+    "nodes": [
+        {
+            "name": "CUF26MTBY160_COURTMODE_SHO_Y",
+            "children": [
+                26,
+                24,
+                21,
+                16,
+                14,
+                12,
+                9,
+                7,
+                5,
+                1
+            ]
+        },
+        {
+            "name": "WaistbandOuter_GRP",
+            "children": [
+                4,
+                3,
+                2
+            ]
+        },
+        {
+            "name": "waistbandOuter_GEO",
+            "mesh": 0,
+            "translation": [
+                -0.1645908355712891,
+                19.794172286987305,
+                0.9574241638183594
+            ]
+        },
+        {
+            "name": "stitchesWaistbandOuter_GEO",
+            "mesh": 1,
+            "translation": [
+                -0.162320613861084,
+                19.871286392211918,
+                0.9626302719116212
+            ]
+        },
+        {
+            "name": "bartack_GEO",
+            "mesh": 2,
+            "translation": [
+                -0.7812577486038208,
+                21.17207908630371,
+                -8.110430717468262
+            ]
+        },
+        {
+            "name": "WaistbandInner_GRP",
+            "children": [
+                6
+            ]
+        },
+        {
+            "name": "waistbandInner_GEO",
+            "mesh": 3,
+            "translation": [
+                -0.15172529220581055,
+                19.831388473510746,
+                1.0043621063232422
+            ]
+        },
+        {
+            "name": "Stripes_GRP",
+            "children": [
+                8
+            ]
+        },
+        {
+            "name": "stripes_GEO",
+            "mesh": 4,
+            "translation": [
+                0.005440711975097656,
+                -0.9882407188415528,
+                1.528015375137329
+            ]
+        },
+        {
+            "name": "SideTape_GRP",
+            "children": [
+                11,
+                10
+            ]
+        },
+        {
+            "name": "stitchesSideTape_GEO",
+            "mesh": 5,
+            "translation": [
+                -0.11911916732788086,
+                -0.48269081115722656,
+                -0.925147294998169
+            ]
+        },
+        {
+            "name": "sideTape_GEO",
+            "mesh": 6,
+            "translation": [
+                -0.11911916732788086,
+                -0.48269081115722656,
+                -0.925147294998169
+            ]
+        },
+        {
+            "name": "SidePanels_GRP",
+            "children": [
+                13
+            ]
+        },
+        {
+            "name": "sidePanels_GEO",
+            "mesh": 7,
+            "translation": [
+                -0.025068283081054688,
+                -0.48269081115722656,
+                -0.925147294998169
+            ]
+        },
+        {
+            "name": "Personalization_GRP",
+            "children": [
+                15
+            ]
+        },
+        {
+            "name": "TeamLogo_P13N_Mesh",
+            "mesh": 8,
+            "translation": [
+                -11.87937068939209,
+                -15.910138130187988,
+                6.197855949401856
+            ]
+        },
+        {
+            "name": "Logo_GRP",
+            "children": [
+                20,
+                19,
+                18,
+                17
+            ]
+        },
+        {
+            "name": "Logo_RightHip_Mesh",
+            "mesh": 9,
+            "translation": [
+                -11.33576488494873,
+                4.411508083343506,
+                8.342496871948242
+            ]
+        },
+        {
+            "name": "Logo_RightHem_Mesh",
+            "mesh": 10,
+            "translation": [
+                -7.073629856109619,
+                -16.25773811340332,
+                8.783439636230469
+            ]
+        },
+        {
+            "name": "Logo_LeftHip_Mesh",
+            "mesh": 11,
+            "translation": [
+                11.121878623962404,
+                4.07745885848999,
+                8.324464797973633
+            ]
+        },
+        {
+            "name": "Logo_LeftHem_Mesh",
+            "mesh": 12,
+            "translation": [
+                10.200955390930176,
+                -16.23317527770996,
+                7.114146709442139
+            ]
+        },
+        {
+            "name": "HemPanelOuter_GRP",
+            "children": [
+                23,
+                22
+            ]
+        },
+        {
+            "name": "stitchesHemPanelOuter_GEO",
+            "mesh": 13,
+            "translation": [
+                0.1460285186767578,
+                -20.32309341430664,
+                -1.9605956077575684
+            ]
+        },
+        {
+            "name": "hemPanelOuter_GEO",
+            "mesh": 14,
+            "translation": [
+                0.14022064208984375,
+                -20.71751594543457,
+                -1.9768133163452148
+            ]
+        },
+        {
+            "name": "HemPanelInner_GRP",
+            "children": [
+                25
+            ]
+        },
+        {
+            "name": "hemPanelInner_GEO",
+            "mesh": 15,
+            "translation": [
+                0.1480708122253418,
+                -20.663646697998047,
+                -2.029636859893799
+            ]
+        },
+        {
+            "name": "Base_GRP",
+            "children": [
+                29,
+                28,
+                27
+            ]
+        },
+        {
+            "name": "cords_GEO",
+            "mesh": 16,
+            "translation": [
+                -0.30688053369522095,
+                11.632628440856934,
+                9.615779876708984
+            ],
+            "rotation": [
+                0.0,
+                1.0,
+                0.0,
+                -0.0
+            ]
+        },
+        {
+            "name": "cordTips_GEO",
+            "mesh": 17,
+            "translation": [
+                -0.24473720788955688,
+                3.792591810226441,
+                8.845621109008789
+            ],
+            "rotation": [
+                0.0,
+                1.0,
+                0.0,
+                -0.0
+            ]
+        },
+        {
+            "name": "base_GEO",
+            "mesh": 18,
+            "translation": [
+                -0.048372745513916016,
+                -0.5808334350585938,
+                -0.8024182319641113
+            ]
+        }
+    ],
+    "meshes": [
+        {
+            "name": "waistbandOuter_GEOShape",
+            "extras": {
+                "targetNames": []
+            },
+            "primitives": [
+                {
+                    "attributes": {
+                        "NORMAL": 1,
+                        "POSITION": 2,
+                        "TANGENT": 3,
+                        "TEXCOORD_0": 4
+                    },
+                    "indices": 0,
+                    "mode": 4,
+                    "material": 0
+                }
+            ]
+        },
+        {
+            "name": "stitchesWaistbandOuter_GEOShape",
+            "extras": {
+                "targetNames": []
+            },
+            "primitives": [
+                {
+                    "attributes": {
+                        "NORMAL": 6,
+                        "POSITION": 7,
+                        "TANGENT": 8,
+                        "TEXCOORD_0": 9
+                    },
+                    "indices": 5,
+                    "mode": 4,
+                    "material": 1
+                }
+            ]
+        },
+        {
+            "name": "bartack_GEOShape",
+            "extras": {
+                "targetNames": []
+            },
+            "primitives": [
+                {
+                    "attributes": {
+                        "NORMAL": 11,
+                        "POSITION": 12,
+                        "TANGENT": 13,
+                        "TEXCOORD_0": 14
+                    },
+                    "indices": 10,
+                    "mode": 4,
+                    "material": 2
+                }
+            ]
+        },
+        {
+            "name": "waistbandInner_GEOShape",
+            "extras": {
+                "targetNames": []
+            },
+            "primitives": [
+                {
+                    "attributes": {
+                        "NORMAL": 16,
+                        "POSITION": 17,
+                        "TANGENT": 18,
+                        "TEXCOORD_0": 19
+                    },
+                    "indices": 15,
+                    "mode": 4,
+                    "material": 3
+                }
+            ]
+        },
+        {
+            "name": "stripes_GEOShape",
+            "extras": {
+                "targetNames": []
+            },
+            "primitives": [
+                {
+                    "attributes": {
+                        "NORMAL": 21,
+                        "POSITION": 22,
+                        "TANGENT": 23,
+                        "TEXCOORD_0": 24
+                    },
+                    "indices": 20,
+                    "mode": 4,
+                    "material": 4
+                }
+            ]
+        },
+        {
+            "name": "stitchesSideTape_GEOShape",
+            "extras": {
+                "targetNames": []
+            },
+            "primitives": [
+                {
+                    "attributes": {
+                        "NORMAL": 26,
+                        "POSITION": 27,
+                        "TANGENT": 28,
+                        "TEXCOORD_0": 29
+                    },
+                    "indices": 25,
+                    "mode": 4,
+                    "material": 5
+                }
+            ]
+        },
+        {
+            "name": "sideTape_GEOShape",
+            "extras": {
+                "targetNames": []
+            },
+            "primitives": [
+                {
+                    "attributes": {
+                        "NORMAL": 31,
+                        "POSITION": 32,
+                        "TANGENT": 33,
+                        "TEXCOORD_0": 34
+                    },
+                    "indices": 30,
+                    "mode": 4,
+                    "material": 6
+                }
+            ]
+        },
+        {
+            "name": "sidePanels_GEOShape",
+            "extras": {
+                "targetNames": []
+            },
+            "primitives": [
+                {
+                    "attributes": {
+                        "NORMAL": 36,
+                        "POSITION": 37,
+                        "TANGENT": 38,
+                        "TEXCOORD_0": 39
+                    },
+                    "indices": 35,
+                    "mode": 4,
+                    "material": 7
+                }
+            ]
+        },
+        {
+            "name": "TeamLogo_P13N_MeshShape",
+            "extras": {
+                "targetNames": []
+            },
+            "primitives": [
+                {
+                    "attributes": {
+                        "NORMAL": 41,
+                        "POSITION": 42,
+                        "TANGENT": 43,
+                        "TEXCOORD_0": 44
+                    },
+                    "indices": 40,
+                    "mode": 4,
+                    "material": 8
+                }
+            ]
+        },
+        {
+            "name": "Logo_RightHip_MeshShape",
+            "extras": {
+                "targetNames": []
+            },
+            "primitives": [
+                {
+                    "attributes": {
+                        "NORMAL": 46,
+                        "POSITION": 47,
+                        "TANGENT": 48,
+                        "TEXCOORD_0": 49
+                    },
+                    "indices": 45,
+                    "mode": 4,
+                    "material": 9
+                }
+            ]
+        },
+        {
+            "name": "Logo_RightHem_MeshShape",
+            "extras": {
+                "targetNames": []
+            },
+            "primitives": [
+                {
+                    "attributes": {
+                        "NORMAL": 51,
+                        "POSITION": 52,
+                        "TANGENT": 53,
+                        "TEXCOORD_0": 54
+                    },
+                    "indices": 50,
+                    "mode": 4,
+                    "material": 9
+                }
+            ]
+        },
+        {
+            "name": "Logo_LeftHip_MeshShape",
+            "extras": {
+                "targetNames": []
+            },
+            "primitives": [
+                {
+                    "attributes": {
+                        "NORMAL": 56,
+                        "POSITION": 57,
+                        "TANGENT": 58,
+                        "TEXCOORD_0": 59
+                    },
+                    "indices": 55,
+                    "mode": 4,
+                    "material": 9
+                }
+            ]
+        },
+        {
+            "name": "Logo_LeftHem_MeshShape",
+            "extras": {
+                "targetNames": []
+            },
+            "primitives": [
+                {
+                    "attributes": {
+                        "NORMAL": 61,
+                        "POSITION": 62,
+                        "TANGENT": 63,
+                        "TEXCOORD_0": 64
+                    },
+                    "indices": 60,
+                    "mode": 4,
+                    "material": 9
+                }
+            ]
+        },
+        {
+            "name": "stitchesHemPanelOuter_GEOShape",
+            "extras": {
+                "targetNames": []
+            },
+            "primitives": [
+                {
+                    "attributes": {
+                        "NORMAL": 66,
+                        "POSITION": 67,
+                        "TANGENT": 68,
+                        "TEXCOORD_0": 69
+                    },
+                    "indices": 65,
+                    "mode": 4,
+                    "material": 10
+                }
+            ]
+        },
+        {
+            "name": "hemPanelOuter_GEOShape",
+            "extras": {
+                "targetNames": []
+            },
+            "primitives": [
+                {
+                    "attributes": {
+                        "NORMAL": 71,
+                        "POSITION": 72,
+                        "TANGENT": 73,
+                        "TEXCOORD_0": 74
+                    },
+                    "indices": 70,
+                    "mode": 4,
+                    "material": 11
+                }
+            ]
+        },
+        {
+            "name": "hemPanelInner_GEOShape",
+            "extras": {
+                "targetNames": []
+            },
+            "primitives": [
+                {
+                    "attributes": {
+                        "NORMAL": 76,
+                        "POSITION": 77,
+                        "TANGENT": 78,
+                        "TEXCOORD_0": 79
+                    },
+                    "indices": 75,
+                    "mode": 4,
+                    "material": 12
+                }
+            ]
+        },
+        {
+            "name": "cords_GEOShape",
+            "extras": {
+                "targetNames": []
+            },
+            "primitives": [
+                {
+                    "attributes": {
+                        "NORMAL": 81,
+                        "POSITION": 82,
+                        "TANGENT": 83,
+                        "TEXCOORD_0": 84
+                    },
+                    "indices": 80,
+                    "mode": 4,
+                    "material": 13
+                }
+            ]
+        },
+        {
+            "name": "cordTips_GEOShape",
+            "extras": {
+                "targetNames": []
+            },
+            "primitives": [
+                {
+                    "attributes": {
+                        "NORMAL": 86,
+                        "POSITION": 87,
+                        "TANGENT": 88,
+                        "TEXCOORD_0": 89
+                    },
+                    "indices": 85,
+                    "mode": 4,
+                    "material": 14
+                }
+            ]
+        },
+        {
+            "name": "base_GEOShape",
+            "extras": {
+                "targetNames": []
+            },
+            "primitives": [
+                {
+                    "attributes": {
+                        "NORMAL": 91,
+                        "POSITION": 92,
+                        "TANGENT": 93,
+                        "TEXCOORD_0": 94
+                    },
+                    "indices": 90,
+                    "mode": 4,
+                    "material": 15
+                }
+            ]
+        }
+    ],
+    "materials": [
+        {
+            "name": "randomMaterial59_JS",
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.14150232076644897,
+                    0.41877540946006775,
+                    0.971636176109314,
+                    1.0
+                ],
+                "baseColorTexture": {
+                    "index": 0,
+                    "extensions": {
+                        "KHR_texture_transform": {
+                            "rotation": 0.0,
+                            "offset": [
+                                0.0,
+                                0.0
+                            ],
+                            "scale": [
+                                1.0,
+                                1.0
+                            ]
+                        }
+                    }
+                },
+                "metallicFactor": 0.0,
+                "roughnessFactor": 0.699999988079071
+            },
+            "emissiveFactor": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "doubleSided": true
+        },
+        {
+            "name": "randomMaterial57_JS",
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.18915557861328128,
+                    0.4091897010803223,
+                    0.41685751080513,
+                    1.0
+                ],
+                "baseColorTexture": {
+                    "index": 0,
+                    "extensions": {
+                        "KHR_texture_transform": {
+                            "rotation": 0.0,
+                            "offset": [
+                                0.0,
+                                0.0
+                            ],
+                            "scale": [
+                                1.0,
+                                1.0
+                            ]
+                        }
+                    }
+                },
+                "metallicFactor": 0.0,
+                "roughnessFactor": 0.699999988079071
+            },
+            "emissiveFactor": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "doubleSided": true
+        },
+        {
+            "name": "randomMaterial42_JS",
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.3716183006763458,
+                    0.003910800442099571,
+                    0.31021928787231445,
+                    1.0
+                ],
+                "baseColorTexture": {
+                    "index": 0,
+                    "extensions": {
+                        "KHR_texture_transform": {
+                            "rotation": 0.0,
+                            "offset": [
+                                0.0,
+                                0.0
+                            ],
+                            "scale": [
+                                1.0,
+                                1.0
+                            ]
+                        }
+                    }
+                },
+                "metallicFactor": 0.0,
+                "roughnessFactor": 0.699999988079071
+            },
+            "emissiveFactor": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "doubleSided": true
+        },
+        {
+            "name": "randomMaterial58_JS",
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.3074614405632019,
+                    0.253314346075058,
+                    0.4925539493560791,
+                    1.0
+                ],
+                "baseColorTexture": {
+                    "index": 0,
+                    "extensions": {
+                        "KHR_texture_transform": {
+                            "rotation": 0.0,
+                            "offset": [
+                                0.0,
+                                0.0
+                            ],
+                            "scale": [
+                                1.0,
+                                1.0
+                            ]
+                        }
+                    }
+                },
+                "metallicFactor": 0.0,
+                "roughnessFactor": 0.699999988079071
+            },
+            "emissiveFactor": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "doubleSided": true
+        },
+        {
+            "name": "randomMaterial37_JS",
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.36287957429885864,
+                    0.18348276615142825,
+                    0.8754578232765198,
+                    1.0
+                ],
+                "baseColorTexture": {
+                    "index": 0,
+                    "extensions": {
+                        "KHR_texture_transform": {
+                            "rotation": 0.0,
+                            "offset": [
+                                0.0,
+                                0.0
+                            ],
+                            "scale": [
+                                1.0,
+                                1.0
+                            ]
+                        }
+                    }
+                },
+                "metallicFactor": 0.0,
+                "roughnessFactor": 0.699999988079071
+            },
+            "emissiveFactor": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "doubleSided": true
+        },
+        {
+            "name": "randomMaterial56_JS",
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.035083506256341934,
+                    0.653751015663147,
+                    0.47044700384140015,
+                    1.0
+                ],
+                "baseColorTexture": {
+                    "index": 0,
+                    "extensions": {
+                        "KHR_texture_transform": {
+                            "rotation": 0.0,
+                            "offset": [
+                                0.0,
+                                0.0
+                            ],
+                            "scale": [
+                                1.0,
+                                1.0
+                            ]
+                        }
+                    }
+                },
+                "metallicFactor": 0.0,
+                "roughnessFactor": 0.699999988079071
+            },
+            "emissiveFactor": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "doubleSided": true
+        },
+        {
+            "name": "randomMaterial55_JS",
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.29634782671928406,
+                    0.5436684489250183,
+                    0.8824114799499512,
+                    1.0
+                ],
+                "baseColorTexture": {
+                    "index": 0,
+                    "extensions": {
+                        "KHR_texture_transform": {
+                            "rotation": 0.0,
+                            "offset": [
+                                0.0,
+                                0.0
+                            ],
+                            "scale": [
+                                1.0,
+                                1.0
+                            ]
+                        }
+                    }
+                },
+                "metallicFactor": 0.0,
+                "roughnessFactor": 0.699999988079071
+            },
+            "emissiveFactor": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "doubleSided": true
+        },
+        {
+            "name": "randomMaterial54_JS",
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.9810949563980104,
+                    0.6322318315505981,
+                    0.8889598250389099,
+                    1.0
+                ],
+                "baseColorTexture": {
+                    "index": 0,
+                    "extensions": {
+                        "KHR_texture_transform": {
+                            "rotation": 0.0,
+                            "offset": [
+                                0.0,
+                                0.0
+                            ],
+                            "scale": [
+                                1.0,
+                                1.0
+                            ]
+                        }
+                    }
+                },
+                "metallicFactor": 0.0,
+                "roughnessFactor": 0.699999988079071
+            },
+            "emissiveFactor": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "doubleSided": true
+        },
+        {
+            "name": "randomMaterial38_JS",
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.6480873227119446,
+                    0.8699808716773987,
+                    0.43131399154663086,
+                    1.0
+                ],
+                "baseColorTexture": {
+                    "index": 0,
+                    "extensions": {
+                        "KHR_texture_transform": {
+                            "rotation": 0.0,
+                            "offset": [
+                                0.0,
+                                0.0
+                            ],
+                            "scale": [
+                                1.0,
+                                1.0
+                            ]
+                        }
+                    }
+                },
+                "metallicFactor": 0.0,
+                "roughnessFactor": 0.699999988079071
+            },
+            "emissiveFactor": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "doubleSided": true
+        },
+        {
+            "name": "Logo_MAT",
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "baseColorTexture": {
+                    "index": 1,
+                    "extensions": {
+                        "KHR_texture_transform": {
+                            "rotation": 0.0,
+                            "offset": [
+                                0.0,
+                                0.0
+                            ],
+                            "scale": [
+                                1.0,
+                                1.0
+                            ]
+                        }
+                    }
+                },
+                "metallicFactor": 0.0,
+                "roughnessFactor": 0.9764705896377563
+            },
+            "emissiveFactor": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "alphaMode": "BLEND"
+        },
+        {
+            "name": "randomMaterial47_JS",
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.774498701095581,
+                    0.6510515809059143,
+                    0.9618231058120728,
+                    1.0
+                ],
+                "baseColorTexture": {
+                    "index": 0,
+                    "extensions": {
+                        "KHR_texture_transform": {
+                            "rotation": 0.0,
+                            "offset": [
+                                0.0,
+                                0.0
+                            ],
+                            "scale": [
+                                1.0,
+                                1.0
+                            ]
+                        }
+                    }
+                },
+                "metallicFactor": 0.0,
+                "roughnessFactor": 0.699999988079071
+            },
+            "emissiveFactor": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "doubleSided": true
+        },
+        {
+            "name": "randomMaterial48_JS",
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.6250688433647156,
+                    0.9421738386154176,
+                    0.4964567720890045,
+                    1.0
+                ],
+                "baseColorTexture": {
+                    "index": 0,
+                    "extensions": {
+                        "KHR_texture_transform": {
+                            "rotation": 0.0,
+                            "offset": [
+                                0.0,
+                                0.0
+                            ],
+                            "scale": [
+                                1.0,
+                                1.0
+                            ]
+                        }
+                    }
+                },
+                "metallicFactor": 0.0,
+                "roughnessFactor": 0.699999988079071
+            },
+            "emissiveFactor": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "doubleSided": true
+        },
+        {
+            "name": "randomMaterial46_JS",
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.881545901298523,
+                    0.973980724811554,
+                    0.13410402834415436,
+                    1.0
+                ],
+                "baseColorTexture": {
+                    "index": 0,
+                    "extensions": {
+                        "KHR_texture_transform": {
+                            "rotation": 0.0,
+                            "offset": [
+                                0.0,
+                                0.0
+                            ],
+                            "scale": [
+                                1.0,
+                                1.0
+                            ]
+                        }
+                    }
+                },
+                "metallicFactor": 0.0,
+                "roughnessFactor": 0.699999988079071
+            },
+            "emissiveFactor": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "doubleSided": true
+        },
+        {
+            "name": "randomMaterial45_JS",
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.8673029541969299,
+                    0.9582478404045104,
+                    0.908793807029724,
+                    1.0
+                ],
+                "baseColorTexture": {
+                    "index": 0,
+                    "extensions": {
+                        "KHR_texture_transform": {
+                            "rotation": 0.0,
+                            "offset": [
+                                0.0,
+                                0.0
+                            ],
+                            "scale": [
+                                1.0,
+                                1.0
+                            ]
+                        }
+                    }
+                },
+                "metallicFactor": 0.0,
+                "roughnessFactor": 0.699999988079071
+            },
+            "emissiveFactor": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "doubleSided": true
+        },
+        {
+            "name": "randomMaterial44_JS",
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.28973403573036194,
+                    0.7331676483154297,
+                    0.5258665084838867,
+                    1.0
+                ],
+                "baseColorTexture": {
+                    "index": 0,
+                    "extensions": {
+                        "KHR_texture_transform": {
+                            "rotation": 0.0,
+                            "offset": [
+                                0.0,
+                                0.0
+                            ],
+                            "scale": [
+                                1.0,
+                                1.0
+                            ]
+                        }
+                    }
+                },
+                "metallicFactor": 0.0,
+                "roughnessFactor": 0.699999988079071
+            },
+            "emissiveFactor": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "doubleSided": true
+        },
+        {
+            "name": "randomMaterial4_JS",
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.08655740320682526,
+                    0.6422648429870605,
+                    0.9929263591766356,
+                    1.0
+                ],
+                "baseColorTexture": {
+                    "index": 0,
+                    "extensions": {
+                        "KHR_texture_transform": {
+                            "rotation": 0.0,
+                            "offset": [
+                                0.0,
+                                0.0
+                            ],
+                            "scale": [
+                                1.0,
+                                1.0
+                            ]
+                        }
+                    }
+                },
+                "metallicFactor": 0.0,
+                "roughnessFactor": 0.699999988079071
+            },
+            "emissiveFactor": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "doubleSided": true
+        }
+    ],
+    "textures": [
+        {
+            "sampler": 0,
+            "source": 0
+        },
+        {
+            "sampler": 0,
+            "source": 1
+        }
+    ],
+    "images": [
+        {
+            "uri": "mapperDesat.jpg"
+        },
+        {
+            "uri": "LogoNOtext_Base_Color.png"
+        }
+    ],
+    "samplers": [
+        {
+            "magFilter": 9729,
+            "minFilter": 9987,
+            "wrapS": 10497,
+            "wrapT": 10497
+        },
+        {
+            "magFilter": 9729,
+            "minFilter": 9987,
+            "wrapS": 10497,
+            "wrapT": 10497
+        }
+    ],
+    "accessors": [
+        {
+            "name": "waistbandOuter_GEOShape#0/indices",
+            "bufferView": 0,
+            "byteOffset": 0,
+            "componentType": 5123,
+            "count": 15162,
+            "max": [
+                3757
+            ],
+            "min": [
+                0
+            ],
+            "type": "SCALAR"
+        },
+        {
+            "name": "waistbandOuter_GEOShape#0/vertices/NORMAL",
+            "bufferView": 1,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 3758,
+            "max": [
+                0.9999882578849792,
+                0.9995428323745728,
+                0.9999404549598694
+            ],
+            "min": [
+                -0.9999966621398926,
+                -0.9583253264427184,
+                -0.9999351501464844
+            ],
+            "type": "VEC3"
+        },
+        {
+            "name": "waistbandOuter_GEOShape#0/vertices/POSITION",
+            "bufferView": 1,
+            "byteOffset": 45096,
+            "componentType": 5126,
+            "count": 3758,
+            "max": [
+                13.556292533874512,
+                3.9251766204833984,
+                9.627513885498049
+            ],
+            "min": [
+                -13.556292533874512,
+                -3.9251766204833984,
+                -9.627513885498049
+            ],
+            "type": "VEC3"
+        },
+        {
+            "name": "waistbandOuter_GEOShape#0/vertices/TANGENT",
+            "bufferView": 2,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 3758,
+            "max": [
+                0.9999986290931702,
+                0.9999889731407166,
+                0.9844486713409424,
+                1.0
+            ],
+            "min": [
+                -0.9999942779541016,
+                -0.999948024749756,
+                -0.9998231530189514,
+                -1.0
+            ],
+            "type": "VEC4"
+        },
+        {
+            "name": "waistbandOuter_GEOShape#0/vertices/TEXCOORD_0",
+            "bufferView": 3,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 3758,
+            "max": [
+                0.388638973236084,
+                1.2223410606384277
+            ],
+            "min": [
+                0.22589045763015747,
+                0.7876399755477905
+            ],
+            "type": "VEC2"
+        },
+        {
+            "name": "stitchesWaistbandOuter_GEOShape#0/indices",
+            "bufferView": 0,
+            "byteOffset": 30324,
+            "componentType": 5123,
+            "count": 17196,
+            "max": [
+                4406
+            ],
+            "min": [
+                0
+            ],
+            "type": "SCALAR"
+        },
+        {
+            "name": "stitchesWaistbandOuter_GEOShape#0/vertices/NORMAL",
+            "bufferView": 1,
+            "byteOffset": 90192,
+            "componentType": 5126,
+            "count": 4407,
+            "max": [
+                0.9999806880950928,
+                0.8004243969917297,
+                0.9999952912330629
+            ],
+            "min": [
+                -0.999665379524231,
+                -0.5978443622589111,
+                -0.9999988079071044
+            ],
+            "type": "VEC3"
+        },
+        {
+            "name": "stitchesWaistbandOuter_GEOShape#0/vertices/POSITION",
+            "bufferView": 1,
+            "byteOffset": 143076,
+            "componentType": 5126,
+            "count": 4407,
+            "max": [
+                13.596418380737305,
+                3.7766170501708984,
+                9.659092903137209
+            ],
+            "min": [
+                -13.596418380737305,
+                -3.7766151428222656,
+                -9.659092903137209
+            ],
+            "type": "VEC3"
+        },
+        {
+            "name": "stitchesWaistbandOuter_GEOShape#0/vertices/TANGENT",
+            "bufferView": 2,
+            "byteOffset": 60128,
+            "componentType": 5126,
+            "count": 4407,
+            "max": [
+                0.6564610600471497,
+                0.9996961951255798,
+                0.7653459310531616,
+                1.0
+            ],
+            "min": [
+                -0.4789411723613739,
+                -0.9999394416809082,
+                -0.7881576418876648,
+                1.0
+            ],
+            "type": "VEC4"
+        },
+        {
+            "name": "stitchesWaistbandOuter_GEOShape#0/vertices/TEXCOORD_0",
+            "bufferView": 3,
+            "byteOffset": 30064,
+            "componentType": 5126,
+            "count": 4407,
+            "max": [
+                0.5026252269744873,
+                0.8541251420974731
+            ],
+            "min": [
+                0.4973747134208679,
+                0.14587485790252686
+            ],
+            "type": "VEC2"
+        },
+        {
+            "name": "bartack_GEOShape#0/indices",
+            "bufferView": 0,
+            "byteOffset": 64716,
+            "componentType": 5123,
+            "count": 480,
+            "max": [
+                149
+            ],
+            "min": [
+                0
+            ],
+            "type": "SCALAR"
+        },
+        {
+            "name": "bartack_GEOShape#0/vertices/NORMAL",
+            "bufferView": 1,
+            "byteOffset": 195960,
+            "componentType": 5126,
+            "count": 150,
+            "max": [
+                0.17148399353027344,
+                0.5073800683021545,
+                0.999892830848694
+            ],
+            "min": [
+                -0.30457717180252075,
+                -0.4287641942501068,
+                -0.9999351501464844
+            ],
+            "type": "VEC3"
+        },
+        {
+            "name": "bartack_GEOShape#0/vertices/POSITION",
+            "bufferView": 1,
+            "byteOffset": 197760,
+            "componentType": 5126,
+            "count": 150,
+            "max": [
+                0.6682097911834717,
+                2.40498161315918,
+                0.5563902854919434
+            ],
+            "min": [
+                -0.6682097911834717,
+                -2.316591262817383,
+                -0.5563907623291016
+            ],
+            "type": "VEC3"
+        },
+        {
+            "name": "bartack_GEOShape#0/vertices/TANGENT",
+            "bufferView": 2,
+            "byteOffset": 130640,
+            "componentType": 5126,
+            "count": 150,
+            "max": [
+                0.9978761076927184,
+                0.9999955892562866,
+                0.5170633792877197,
+                1.0
+            ],
+            "min": [
+                -0.9994764924049376,
+                -0.9999209642410278,
+                -0.4327003955841065,
+                1.0
+            ],
+            "type": "VEC4"
+        },
+        {
+            "name": "bartack_GEOShape#0/vertices/TEXCOORD_0",
+            "bufferView": 3,
+            "byteOffset": 65320,
+            "componentType": 5126,
+            "count": 150,
+            "max": [
+                0.6639308929443359,
+                0.9801048636436462
+            ],
+            "min": [
+                0.34233441948890686,
+                0.02300846576690674
+            ],
+            "type": "VEC2"
+        },
+        {
+            "name": "waistbandInner_GEOShape#0/indices",
+            "bufferView": 0,
+            "byteOffset": 65676,
+            "componentType": 5123,
+            "count": 17346,
+            "max": [
+                3724
+            ],
+            "min": [
+                0
+            ],
+            "type": "SCALAR"
+        },
+        {
+            "name": "waistbandInner_GEOShape#0/vertices/NORMAL",
+            "bufferView": 1,
+            "byteOffset": 199560,
+            "componentType": 5126,
+            "count": 3725,
+            "max": [
+                0.9999416470527648,
+                0.6015673279762268,
+                0.999924898147583
+            ],
+            "min": [
+                -0.9999417662620544,
+                -0.5973196029663086,
+                -0.9999266862869264
+            ],
+            "type": "VEC3"
+        },
+        {
+            "name": "waistbandInner_GEOShape#0/vertices/POSITION",
+            "bufferView": 1,
+            "byteOffset": 244260,
+            "componentType": 5126,
+            "count": 3725,
+            "max": [
+                13.486701965332031,
+                2.942838668823242,
+                9.580575942993164
+            ],
+            "min": [
+                -13.486701965332031,
+                -2.94283676147461,
+                -9.580575942993164
+            ],
+            "type": "VEC3"
+        },
+        {
+            "name": "waistbandInner_GEOShape#0/vertices/TANGENT",
+            "bufferView": 2,
+            "byteOffset": 133040,
+            "componentType": 5126,
+            "count": 3725,
+            "max": [
+                0.999936044216156,
+                0.9999791979789734,
+                0.5742923617362976,
+                1.0
+            ],
+            "min": [
+                -0.9999984502792358,
+                -0.9995543956756592,
+                -0.5423896312713623,
+                -1.0
+            ],
+            "type": "VEC4"
+        },
+        {
+            "name": "waistbandInner_GEOShape#0/vertices/TEXCOORD_0",
+            "bufferView": 3,
+            "byteOffset": 66520,
+            "componentType": 5126,
+            "count": 3725,
+            "max": [
+                0.388638973236084,
+                1.2223410606384277
+            ],
+            "min": [
+                0.2258914560079575,
+                0.787651002407074
+            ],
+            "type": "VEC2"
+        },
+        {
+            "name": "stripes_GEOShape#0/indices",
+            "bufferView": 0,
+            "byteOffset": 100368,
+            "componentType": 5123,
+            "count": 2622,
+            "max": [
+                579
+            ],
+            "min": [
+                0
+            ],
+            "type": "SCALAR"
+        },
+        {
+            "name": "stripes_GEOShape#0/vertices/NORMAL",
+            "bufferView": 1,
+            "byteOffset": 288960,
+            "componentType": 5126,
+            "count": 580,
+            "max": [
+                0.9999948740005492,
+                0.06629292666912079,
+                0.4924161434173584
+            ],
+            "min": [
+                -0.9999997615814208,
+                -0.08234670013189316,
+                -0.3858519494533539
+            ],
+            "type": "VEC3"
+        },
+        {
+            "name": "stripes_GEOShape#0/vertices/POSITION",
+            "bufferView": 1,
+            "byteOffset": 295920,
+            "componentType": 5126,
+            "count": 580,
+            "max": [
+                15.044788360595703,
+                9.45512580871582,
+                2.4322752952575684
+            ],
+            "min": [
+                -15.30379867553711,
+                -9.329627990722656,
+                -6.469606399536133
+            ],
+            "type": "VEC3"
+        },
+        {
+            "name": "stripes_GEOShape#0/vertices/TANGENT",
+            "bufferView": 2,
+            "byteOffset": 192640,
+            "componentType": 5126,
+            "count": 580,
+            "max": [
+                0.0963609740138054,
+                0.9983550906181335,
+                0.12978221476078033,
+                1.0
+            ],
+            "min": [
+                -0.06575555354356766,
+                0.031227467581629753,
+                -0.9985625743865968,
+                -1.0
+            ],
+            "type": "VEC4"
+        },
+        {
+            "name": "stripes_GEOShape#0/vertices/TEXCOORD_0",
+            "bufferView": 3,
+            "byteOffset": 96320,
+            "componentType": 5126,
+            "count": 580,
+            "max": [
+                4.000554084777832,
+                0.8007279634475708
+            ],
+            "min": [
+                0.488757997751236,
+                -0.8717740774154663
+            ],
+            "type": "VEC2"
+        },
+        {
+            "name": "stitchesSideTape_GEOShape#0/indices",
+            "bufferView": 0,
+            "byteOffset": 105612,
+            "componentType": 5123,
+            "count": 3108,
+            "max": [
+                835
+            ],
+            "min": [
+                0
+            ],
+            "type": "SCALAR"
+        },
+        {
+            "name": "stitchesSideTape_GEOShape#0/vertices/NORMAL",
+            "bufferView": 1,
+            "byteOffset": 302880,
+            "componentType": 5126,
+            "count": 836,
+            "max": [
+                0.9827262163162231,
+                0.6906850934028625,
+                0.7308290004730225
+            ],
+            "min": [
+                -0.9980199933052064,
+                -0.1319050639867783,
+                -0.5890159010887146
+            ],
+            "type": "VEC3"
+        },
+        {
+            "name": "stitchesSideTape_GEOShape#0/vertices/POSITION",
+            "bufferView": 1,
+            "byteOffset": 312912,
+            "componentType": 5126,
+            "count": 836,
+            "max": [
+                15.06369972229004,
+                18.347036361694336,
+                6.620333671569824
+            ],
+            "min": [
+                -15.085494995117188,
+                -18.319473266601562,
+                -6.571483612060547
+            ],
+            "type": "VEC3"
+        },
+        {
+            "name": "stitchesSideTape_GEOShape#0/vertices/TANGENT",
+            "bufferView": 2,
+            "byteOffset": 201920,
+            "componentType": 5126,
+            "count": 836,
+            "max": [
+                0.5987297296524048,
+                0.245436891913414,
+                0.9795042276382446,
+                1.0
+            ],
+            "min": [
+                -0.7470632791519165,
+                -0.2826456129550934,
+                -0.9972664713859558,
+                1.0
+            ],
+            "type": "VEC4"
+        },
+        {
+            "name": "stitchesSideTape_GEOShape#0/vertices/TEXCOORD_0",
+            "bufferView": 3,
+            "byteOffset": 100960,
+            "componentType": 5126,
+            "count": 836,
+            "max": [
+                0.5031605958938599,
+                0.8591411709785461
+            ],
+            "min": [
+                0.49683940410614014,
+                0.14085882902145389
+            ],
+            "type": "VEC2"
+        },
+        {
+            "name": "sideTape_GEOShape#0/indices",
+            "bufferView": 0,
+            "byteOffset": 111828,
+            "componentType": 5123,
+            "count": 4584,
+            "max": [
+                1767
+            ],
+            "min": [
+                0
+            ],
+            "type": "SCALAR"
+        },
+        {
+            "name": "sideTape_GEOShape#0/vertices/NORMAL",
+            "bufferView": 1,
+            "byteOffset": 322944,
+            "componentType": 5126,
+            "count": 1768,
+            "max": [
+                0.993708908557892,
+                0.9915691614151,
+                0.984586775302887
+            ],
+            "min": [
+                -0.999696671962738,
+                -0.8463065028190613,
+                -0.9754304885864258
+            ],
+            "type": "VEC3"
+        },
+        {
+            "name": "sideTape_GEOShape#0/vertices/POSITION",
+            "bufferView": 1,
+            "byteOffset": 344160,
+            "componentType": 5126,
+            "count": 1768,
+            "max": [
+                15.028404235839844,
+                18.34792137145996,
+                6.614496231079102
+            ],
+            "min": [
+                -15.050586700439453,
+                -18.343891143798828,
+                -6.596920967102051
+            ],
+            "type": "VEC3"
+        },
+        {
+            "name": "sideTape_GEOShape#0/vertices/TANGENT",
+            "bufferView": 2,
+            "byteOffset": 215296,
+            "componentType": 5126,
+            "count": 1768,
+            "max": [
+                0.9916428327560424,
+                0.9999181032180786,
+                0.9872252941131592,
+                1.0
+            ],
+            "min": [
+                -0.9870249032974244,
+                -0.9967119693756104,
+                -0.9871731400489808,
+                -1.0
+            ],
+            "type": "VEC4"
+        },
+        {
+            "name": "sideTape_GEOShape#0/vertices/TEXCOORD_0",
+            "bufferView": 3,
+            "byteOffset": 107648,
+            "componentType": 5126,
+            "count": 1768,
+            "max": [
+                0.18086999654769895,
+                1.0496569871902466
+            ],
+            "min": [
+                -0.18120400607585907,
+                0.9496549963951112
+            ],
+            "type": "VEC2"
+        },
+        {
+            "name": "sidePanels_GEOShape#0/indices",
+            "bufferView": 0,
+            "byteOffset": 120996,
+            "componentType": 5123,
+            "count": 7860,
+            "max": [
+                1523
+            ],
+            "min": [
+                0
+            ],
+            "type": "SCALAR"
+        },
+        {
+            "name": "sidePanels_GEOShape#0/vertices/NORMAL",
+            "bufferView": 1,
+            "byteOffset": 365376,
+            "componentType": 5126,
+            "count": 1524,
+            "max": [
+                0.9999992847442628,
+                0.990918755531311,
+                0.9422630667686462
+            ],
+            "min": [
+                -0.9999970197677612,
+                -0.7338466048240662,
+                -0.9077327847480774
+            ],
+            "type": "VEC3"
+        },
+        {
+            "name": "sidePanels_GEOShape#0/vertices/POSITION",
+            "bufferView": 1,
+            "byteOffset": 383664,
+            "componentType": 5126,
+            "count": 1524,
+            "max": [
+                15.255544662475586,
+                18.34122657775879,
+                6.604642868041992
+            ],
+            "min": [
+                -15.256114959716797,
+                -18.34122657775879,
+                -6.604642868041992
+            ],
+            "type": "VEC3"
+        },
+        {
+            "name": "sidePanels_GEOShape#0/vertices/TANGENT",
+            "bufferView": 2,
+            "byteOffset": 243584,
+            "componentType": 5126,
+            "count": 1524,
+            "max": [
+                0.9839702248573304,
+                0.9995046257972716,
+                0.9732247591018676,
+                1.0
+            ],
+            "min": [
+                -0.9869916439056396,
+                -0.9949079155921936,
+                -0.989647626876831,
+                -1.0
+            ],
+            "type": "VEC4"
+        },
+        {
+            "name": "sidePanels_GEOShape#0/vertices/TEXCOORD_0",
+            "bufferView": 3,
+            "byteOffset": 121792,
+            "componentType": 5126,
+            "count": 1524,
+            "max": [
+                0.1812009960412979,
+                1.0496569871902466
+            ],
+            "min": [
+                -0.18120400607585907,
+                0.9496549963951112
+            ],
+            "type": "VEC2"
+        },
+        {
+            "name": "TeamLogo_P13N_MeshShape#0/indices",
+            "bufferView": 0,
+            "byteOffset": 136716,
+            "componentType": 5123,
+            "count": 600,
+            "max": [
+                120
+            ],
+            "min": [
+                0
+            ],
+            "type": "SCALAR"
+        },
+        {
+            "name": "TeamLogo_P13N_MeshShape#0/vertices/NORMAL",
+            "bufferView": 1,
+            "byteOffset": 401952,
+            "componentType": 5126,
+            "count": 121,
+            "max": [
+                -0.44796302914619446,
+                -0.04683912172913551,
+                0.8928243517875671
+            ],
+            "min": [
+                -0.8759260177612305,
+                -0.15187035501003265,
+                0.4579181373119354
+            ],
+            "type": "VEC3"
+        },
+        {
+            "name": "TeamLogo_P13N_MeshShape#0/vertices/POSITION",
+            "bufferView": 1,
+            "byteOffset": 403404,
+            "componentType": 5126,
+            "count": 121,
+            "max": [
+                2.3719940185546875,
+                2.760507583618164,
+                1.4732508659362793
+            ],
+            "min": [
+                -1.4456628561019897,
+                -2.664071083068848,
+                -2.5372719764709473
+            ],
+            "type": "VEC3"
+        },
+        {
+            "name": "TeamLogo_P13N_MeshShape#0/vertices/TANGENT",
+            "bufferView": 2,
+            "byteOffset": 267968,
+            "componentType": 5126,
+            "count": 121,
+            "max": [
+                0.8934392929077148,
+                -0.06041940674185753,
+                0.8702667355537415,
+                1.0
+            ],
+            "min": [
+                0.47656235098838806,
+                -0.1245959997177124,
+                0.44510188698768616,
+                1.0
+            ],
+            "type": "VEC4"
+        },
+        {
+            "name": "TeamLogo_P13N_MeshShape#0/vertices/TEXCOORD_0",
+            "bufferView": 3,
+            "byteOffset": 133984,
+            "componentType": 5126,
+            "count": 121,
+            "max": [
+                1.0,
+                1.0
+            ],
+            "min": [
+                0.0,
+                0.0
+            ],
+            "type": "VEC2"
+        },
+        {
+            "name": "Logo_RightHip_MeshShape#0/indices",
+            "bufferView": 0,
+            "byteOffset": 137916,
+            "componentType": 5123,
+            "count": 600,
+            "max": [
+                120
+            ],
+            "min": [
+                0
+            ],
+            "type": "SCALAR"
+        },
+        {
+            "name": "Logo_RightHip_MeshShape#0/vertices/NORMAL",
+            "bufferView": 1,
+            "byteOffset": 404856,
+            "componentType": 5126,
+            "count": 121,
+            "max": [
+                -0.09765955060720444,
+                0.09130021184682846,
+                0.9926367998123168
+            ],
+            "min": [
+                -0.7550058364868164,
+                -0.12115929275751114,
+                0.6545793414115906
+            ],
+            "type": "VEC3"
+        },
+        {
+            "name": "Logo_RightHip_MeshShape#0/vertices/POSITION",
+            "bufferView": 1,
+            "byteOffset": 406308,
+            "componentType": 5126,
+            "count": 121,
+            "max": [
+                2.5460972785949707,
+                1.7104830741882324,
+                0.5892950296401978
+            ],
+            "min": [
+                -1.8044350147247317,
+                -1.6202952861785889,
+                -1.8988451957702637
+            ],
+            "type": "VEC3"
+        },
+        {
+            "name": "Logo_RightHip_MeshShape#0/vertices/TANGENT",
+            "bufferView": 2,
+            "byteOffset": 269904,
+            "componentType": 5126,
+            "count": 121,
+            "max": [
+                0.9945640563964844,
+                -0.029093174263834957,
+                0.7549479007720947,
+                1.0
+            ],
+            "min": [
+                0.6500687599182129,
+                -0.09897810965776443,
+                0.09418382495641708,
+                1.0
+            ],
+            "type": "VEC4"
+        },
+        {
+            "name": "Logo_RightHip_MeshShape#0/vertices/TEXCOORD_0",
+            "bufferView": 3,
+            "byteOffset": 134952,
+            "componentType": 5126,
+            "count": 121,
+            "max": [
+                0.9982672929763794,
+                0.761786937713623
+            ],
+            "min": [
+                0.001732736942358315,
+                0.13687682151794434
+            ],
+            "type": "VEC2"
+        },
+        {
+            "name": "Logo_RightHem_MeshShape#0/indices",
+            "bufferView": 0,
+            "byteOffset": 139116,
+            "componentType": 5123,
+            "count": 600,
+            "max": [
+                120
+            ],
+            "min": [
+                0
+            ],
+            "type": "SCALAR"
+        },
+        {
+            "name": "Logo_RightHem_MeshShape#0/vertices/NORMAL",
+            "bufferView": 1,
+            "byteOffset": 407760,
+            "componentType": 5126,
+            "count": 121,
+            "max": [
+                0.58674556016922,
+                -0.04319800063967705,
+                0.9981377720832824
+            ],
+            "min": [
+                -0.4350914359092713,
+                -0.16881808638572693,
+                0.7965447902679443
+            ],
+            "type": "VEC3"
+        },
+        {
+            "name": "Logo_RightHem_MeshShape#0/vertices/POSITION",
+            "bufferView": 1,
+            "byteOffset": 409212,
+            "componentType": 5126,
+            "count": 121,
+            "max": [
+                2.499270439147949,
+                1.7799615859985352,
+                -0.4095202684402466
+            ],
+            "min": [
+                -2.474625825881958,
+                -1.4830350875854492,
+                -1.594537377357483
+            ],
+            "type": "VEC3"
+        },
+        {
+            "name": "Logo_RightHem_MeshShape#0/vertices/TANGENT",
+            "bufferView": 2,
+            "byteOffset": 271840,
+            "componentType": 5126,
+            "count": 121,
+            "max": [
+                0.9993529915809632,
+                0.050005149096250534,
+                0.4254054129123688,
+                1.0
+            ],
+            "min": [
+                0.8081552386283875,
+                -0.1351055353879929,
+                -0.587576687335968,
+                1.0
+            ],
+            "type": "VEC4"
+        },
+        {
+            "name": "Logo_RightHem_MeshShape#0/vertices/TEXCOORD_0",
+            "bufferView": 3,
+            "byteOffset": 135920,
+            "componentType": 5126,
+            "count": 121,
+            "max": [
+                0.9982672929763794,
+                0.761786937713623
+            ],
+            "min": [
+                0.001732736942358315,
+                0.13687682151794434
+            ],
+            "type": "VEC2"
+        },
+        {
+            "name": "Logo_LeftHip_MeshShape#0/indices",
+            "bufferView": 0,
+            "byteOffset": 140316,
+            "componentType": 5123,
+            "count": 600,
+            "max": [
+                120
+            ],
+            "min": [
+                0
+            ],
+            "type": "SCALAR"
+        },
+        {
+            "name": "Logo_LeftHip_MeshShape#0/vertices/NORMAL",
+            "bufferView": 1,
+            "byteOffset": 410664,
+            "componentType": 5126,
+            "count": 121,
+            "max": [
+                0.7391128540039062,
+                0.04680534452199936,
+                0.999783992767334
+            ],
+            "min": [
+                -0.02656221948564053,
+                -0.059318602085113525,
+                0.6711360216140747
+            ],
+            "type": "VEC3"
+        },
+        {
+            "name": "Logo_LeftHip_MeshShape#0/vertices/POSITION",
+            "bufferView": 1,
+            "byteOffset": 412116,
+            "componentType": 5126,
+            "count": 121,
+            "max": [
+                1.913167953491211,
+                1.6169114112854004,
+                0.35538536310195923
+            ],
+            "min": [
+                -2.549576759338379,
+                -1.5637197494506836,
+                -1.8393975496292116
+            ],
+            "type": "VEC3"
+        },
+        {
+            "name": "Logo_LeftHip_MeshShape#0/vertices/TANGENT",
+            "bufferView": 2,
+            "byteOffset": 273776,
+            "componentType": 5126,
+            "count": 121,
+            "max": [
+                0.9999513030052184,
+                0.06945328414440155,
+                0.02680206298828125,
+                1.0
+            ],
+            "min": [
+                0.67350834608078,
+                0.004479315131902695,
+                -0.7376055121421814,
+                1.0
+            ],
+            "type": "VEC4"
+        },
+        {
+            "name": "Logo_LeftHip_MeshShape#0/vertices/TEXCOORD_0",
+            "bufferView": 3,
+            "byteOffset": 136888,
+            "componentType": 5126,
+            "count": 121,
+            "max": [
+                0.9982672929763794,
+                0.761786937713623
+            ],
+            "min": [
+                0.001732736942358315,
+                0.13687682151794434
+            ],
+            "type": "VEC2"
+        },
+        {
+            "name": "Logo_LeftHem_MeshShape#0/indices",
+            "bufferView": 0,
+            "byteOffset": 141516,
+            "componentType": 5123,
+            "count": 600,
+            "max": [
+                120
+            ],
+            "min": [
+                0
+            ],
+            "type": "SCALAR"
+        },
+        {
+            "name": "Logo_LeftHem_MeshShape#0/vertices/NORMAL",
+            "bufferView": 1,
+            "byteOffset": 413568,
+            "componentType": 5126,
+            "count": 121,
+            "max": [
+                0.693230152130127,
+                -0.0720607116818428,
+                0.9166577458381652
+            ],
+            "min": [
+                0.39307457208633423,
+                -0.1446605771780014,
+                0.7106700539588928
+            ],
+            "type": "VEC3"
+        },
+        {
+            "name": "Logo_LeftHem_MeshShape#0/vertices/POSITION",
+            "bufferView": 1,
+            "byteOffset": 415020,
+            "componentType": 5126,
+            "count": 121,
+            "max": [
+                1.864128589630127,
+                1.7488374710083008,
+                1.1348049640655518
+            ],
+            "min": [
+                -2.536396026611328,
+                -1.7030458450317385,
+                -2.033958911895752
+            ],
+            "type": "VEC3"
+        },
+        {
+            "name": "Logo_LeftHem_MeshShape#0/vertices/TANGENT",
+            "bufferView": 2,
+            "byteOffset": 275712,
+            "componentType": 5126,
+            "count": 121,
+            "max": [
+                0.9186407923698424,
+                0.13346177339553833,
+                -0.3880751132965088,
+                1.0
+            ],
+            "min": [
+                0.7206530570983887,
+                0.05698920041322708,
+                -0.6862214803695679,
+                1.0
+            ],
+            "type": "VEC4"
+        },
+        {
+            "name": "Logo_LeftHem_MeshShape#0/vertices/TEXCOORD_0",
+            "bufferView": 3,
+            "byteOffset": 137856,
+            "componentType": 5126,
+            "count": 121,
+            "max": [
+                0.9982672929763794,
+                0.761786937713623
+            ],
+            "min": [
+                0.001732736942358315,
+                0.13687682151794434
+            ],
+            "type": "VEC2"
+        },
+        {
+            "name": "stitchesHemPanelOuter_GEOShape#0/indices",
+            "bufferView": 0,
+            "byteOffset": 142716,
+            "componentType": 5123,
+            "count": 8352,
+            "max": [
+                2123
+            ],
+            "min": [
+                0
+            ],
+            "type": "SCALAR"
+        },
+        {
+            "name": "stitchesHemPanelOuter_GEOShape#0/vertices/NORMAL",
+            "bufferView": 1,
+            "byteOffset": 416472,
+            "componentType": 5126,
+            "count": 2124,
+            "max": [
+                0.9999709725379944,
+                0.3819540441036225,
+                0.9995490908622742
+            ],
+            "min": [
+                -0.9999739527702332,
+                -0.3795837461948395,
+                -0.9995473027229308
+            ],
+            "type": "VEC3"
+        },
+        {
+            "name": "stitchesHemPanelOuter_GEOShape#0/vertices/POSITION",
+            "bufferView": 1,
+            "byteOffset": 441960,
+            "componentType": 5126,
+            "count": 2124,
+            "max": [
+                15.141778945922852,
+                2.7107982635498047,
+                10.156778335571287
+            ],
+            "min": [
+                -15.141778945922852,
+                -2.7107982635498047,
+                -10.156778335571287
+            ],
+            "type": "VEC3"
+        },
+        {
+            "name": "stitchesHemPanelOuter_GEOShape#0/vertices/TANGENT",
+            "bufferView": 2,
+            "byteOffset": 277648,
+            "componentType": 5126,
+            "count": 2124,
+            "max": [
+                0.5681091547012329,
+                0.9976757168769836,
+                0.2625295519828797,
+                1.0
+            ],
+            "min": [
+                -0.28502386808395386,
+                -0.9987722039222716,
+                -0.5115087628364563,
+                1.0
+            ],
+            "type": "VEC4"
+        },
+        {
+            "name": "stitchesHemPanelOuter_GEOShape#0/vertices/TEXCOORD_0",
+            "bufferView": 3,
+            "byteOffset": 138824,
+            "componentType": 5126,
+            "count": 2124,
+            "max": [
+                0.5018755197525024,
+                0.9974179863929749
+            ],
+            "min": [
+                0.4981244802474976,
+                0.003873825073242188
+            ],
+            "type": "VEC2"
+        },
+        {
+            "name": "hemPanelOuter_GEOShape#0/indices",
+            "bufferView": 0,
+            "byteOffset": 159420,
+            "componentType": 5123,
+            "count": 5520,
+            "max": [
+                1623
+            ],
+            "min": [
+                0
+            ],
+            "type": "SCALAR"
+        },
+        {
+            "name": "hemPanelOuter_GEOShape#0/vertices/NORMAL",
+            "bufferView": 1,
+            "byteOffset": 467448,
+            "componentType": 5126,
+            "count": 1624,
+            "max": [
+                0.9998688101768494,
+                0.8367985486984253,
+                0.999861776828766
+            ],
+            "min": [
+                -0.9999749064445496,
+                -0.9180761575698853,
+                -0.9989023208618164
+            ],
+            "type": "VEC3"
+        },
+        {
+            "name": "hemPanelOuter_GEOShape#0/vertices/POSITION",
+            "bufferView": 1,
+            "byteOffset": 486936,
+            "componentType": 5126,
+            "count": 1624,
+            "max": [
+                15.139557838439941,
+                2.993179321289063,
+                10.116616249084473
+            ],
+            "min": [
+                -15.139557838439941,
+                -2.99317741394043,
+                -10.116616249084473
+            ],
+            "type": "VEC3"
+        },
+        {
+            "name": "hemPanelOuter_GEOShape#0/vertices/TANGENT",
+            "bufferView": 2,
+            "byteOffset": 311632,
+            "componentType": 5126,
+            "count": 1624,
+            "max": [
+                0.977008044719696,
+                0.9995436072349548,
+                0.9889006018638612,
+                1.0
+            ],
+            "min": [
+                -0.9887912273406982,
+                -0.9979225993156432,
+                -0.9554536938667296,
+                -1.0
+            ],
+            "type": "VEC4"
+        },
+        {
+            "name": "hemPanelOuter_GEOShape#0/vertices/TEXCOORD_0",
+            "bufferView": 3,
+            "byteOffset": 155816,
+            "componentType": 5126,
+            "count": 1624,
+            "max": [
+                0.03935699909925461,
+                1.265428066253662
+            ],
+            "min": [
+                1.2999999853491317e-05,
+                0.7347049713134766
+            ],
+            "type": "VEC2"
+        },
+        {
+            "name": "hemPanelInner_GEOShape#0/indices",
+            "bufferView": 0,
+            "byteOffset": 170460,
+            "componentType": 5123,
+            "count": 5544,
+            "max": [
+                1287
+            ],
+            "min": [
+                0
+            ],
+            "type": "SCALAR"
+        },
+        {
+            "name": "hemPanelInner_GEOShape#0/vertices/NORMAL",
+            "bufferView": 1,
+            "byteOffset": 506424,
+            "componentType": 5126,
+            "count": 1288,
+            "max": [
+                0.9997735619544984,
+                0.8509032726287842,
+                0.9991334080696106
+            ],
+            "min": [
+                -0.999833047389984,
+                -0.8809152841567993,
+                -0.999151051044464
+            ],
+            "type": "VEC3"
+        },
+        {
+            "name": "hemPanelInner_GEOShape#0/vertices/POSITION",
+            "bufferView": 1,
+            "byteOffset": 521880,
+            "componentType": 5126,
+            "count": 1288,
+            "max": [
+                15.10633659362793,
+                2.257888793945313,
+                10.054859161376953
+            ],
+            "min": [
+                -15.10633659362793,
+                -2.257888793945313,
+                -10.054859161376953
+            ],
+            "type": "VEC3"
+        },
+        {
+            "name": "hemPanelInner_GEOShape#0/vertices/TANGENT",
+            "bufferView": 2,
+            "byteOffset": 337616,
+            "componentType": 5126,
+            "count": 1288,
+            "max": [
+                0.9743766784667968,
+                0.999947190284729,
+                0.9881606101989746,
+                1.0
+            ],
+            "min": [
+                -0.9856777191162108,
+                -0.9959557056427002,
+                -0.9670055508613586,
+                -1.0
+            ],
+            "type": "VEC4"
+        },
+        {
+            "name": "hemPanelInner_GEOShape#0/vertices/TEXCOORD_0",
+            "bufferView": 3,
+            "byteOffset": 168808,
+            "componentType": 5126,
+            "count": 1288,
+            "max": [
+                0.032898999750614166,
+                1.2639479637145996
+            ],
+            "min": [
+                0.008011000230908394,
+                0.7367525100708008
+            ],
+            "type": "VEC2"
+        },
+        {
+            "name": "cords_GEOShape#0/indices",
+            "bufferView": 0,
+            "byteOffset": 181548,
+            "componentType": 5123,
+            "count": 1200,
+            "max": [
+                247
+            ],
+            "min": [
+                0
+            ],
+            "type": "SCALAR"
+        },
+        {
+            "name": "cords_GEOShape#0/vertices/NORMAL",
+            "bufferView": 1,
+            "byteOffset": 537336,
+            "componentType": 5126,
+            "count": 248,
+            "max": [
+                0.9998669624328612,
+                0.9999833106994628,
+                0.9999770522117616
+            ],
+            "min": [
+                -0.9999093413352966,
+                -0.9996175169944764,
+                -0.9997212290763856
+            ],
+            "type": "VEC3"
+        },
+        {
+            "name": "cords_GEOShape#0/vertices/POSITION",
+            "bufferView": 1,
+            "byteOffset": 540312,
+            "componentType": 5126,
+            "count": 248,
+            "max": [
+                2.153956413269043,
+                6.897666931152344,
+                1.4217329025268557
+            ],
+            "min": [
+                -2.1525521278381348,
+                -0.5815372467041016,
+                -0.8058242797851562
+            ],
+            "type": "VEC3"
+        },
+        {
+            "name": "cords_GEOShape#0/vertices/TANGENT",
+            "bufferView": 2,
+            "byteOffset": 358224,
+            "componentType": 5126,
+            "count": 248,
+            "max": [
+                0.9999959468841552,
+                0.9799931645393372,
+                0.9998111724853516,
+                1.0
+            ],
+            "min": [
+                -1.0,
+                -0.994949221611023,
+                -0.9996929168701172,
+                1.0
+            ],
+            "type": "VEC4"
+        },
+        {
+            "name": "cords_GEOShape#0/vertices/TEXCOORD_0",
+            "bufferView": 3,
+            "byteOffset": 179112,
+            "componentType": 5126,
+            "count": 248,
+            "max": [
+                0.65625,
+                1.0
+            ],
+            "min": [
+                0.34375,
+                0.0
+            ],
+            "type": "VEC2"
+        },
+        {
+            "name": "cordTips_GEOShape#0/indices",
+            "bufferView": 0,
+            "byteOffset": 183948,
+            "componentType": 5123,
+            "count": 672,
+            "max": [
+                167
+            ],
+            "min": [
+                0
+            ],
+            "type": "SCALAR"
+        },
+        {
+            "name": "cordTips_GEOShape#0/vertices/NORMAL",
+            "bufferView": 1,
+            "byteOffset": 543288,
+            "componentType": 5126,
+            "count": 168,
+            "max": [
+                0.9989784955978394,
+                0.04395030811429024,
+                0.9993619322776794
+            ],
+            "min": [
+                -0.9990419149398804,
+                -0.999804139137268,
+                -0.9993303418159484
+            ],
+            "type": "VEC3"
+        },
+        {
+            "name": "cordTips_GEOShape#0/vertices/POSITION",
+            "bufferView": 1,
+            "byteOffset": 545304,
+            "componentType": 5126,
+            "count": 168,
+            "max": [
+                2.0141677856445312,
+                7.3641533851623535,
+                0.5267572402954102
+            ],
+            "min": [
+                -1.9844025373458865,
+                5.3017897605896,
+                0.12125205993652344
+            ],
+            "type": "VEC3"
+        },
+        {
+            "name": "cordTips_GEOShape#0/vertices/TANGENT",
+            "bufferView": 2,
+            "byteOffset": 362192,
+            "componentType": 5126,
+            "count": 168,
+            "max": [
+                0.7085533142089844,
+                0.7170993089675903,
+                0.6999297738075256,
+                1.0
+            ],
+            "min": [
+                -0.7042413353919983,
+                -0.9998858571052552,
+                -0.9999796152114868,
+                -1.0
+            ],
+            "type": "VEC4"
+        },
+        {
+            "name": "cordTips_GEOShape#0/vertices/TEXCOORD_0",
+            "bufferView": 3,
+            "byteOffset": 181096,
+            "componentType": 5126,
+            "count": 168,
+            "max": [
+                0.05826700106263161,
+                1.2311420440673828
+            ],
+            "min": [
+                -0.16007499396800995,
+                0.98362797498703
+            ],
+            "type": "VEC2"
+        },
+        {
+            "name": "base_GEOShape#0/indices",
+            "bufferView": 0,
+            "byteOffset": 185292,
+            "componentType": 5123,
+            "count": 33366,
+            "max": [
+                6117
+            ],
+            "min": [
+                0
+            ],
+            "type": "SCALAR"
+        },
+        {
+            "name": "base_GEOShape#0/vertices/NORMAL",
+            "bufferView": 1,
+            "byteOffset": 547320,
+            "componentType": 5126,
+            "count": 6118,
+            "max": [
+                0.9999327659606934,
+                0.988659143447876,
+                0.9999458193778992
+            ],
+            "min": [
+                -0.999752163887024,
+                -0.873999297618866,
+                -0.999884843826294
+            ],
+            "type": "VEC3"
+        },
+        {
+            "name": "base_GEOShape#0/vertices/POSITION",
+            "bufferView": 1,
+            "byteOffset": 620736,
+            "componentType": 5126,
+            "count": 6118,
+            "max": [
+                14.44491958618164,
+                19.31604766845703,
+                11.17724609375
+            ],
+            "min": [
+                -14.44491958618164,
+                -19.31604766845703,
+                -11.17724609375
+            ],
+            "type": "VEC3"
+        },
+        {
+            "name": "base_GEOShape#0/vertices/TANGENT",
+            "bufferView": 2,
+            "byteOffset": 364880,
+            "componentType": 5126,
+            "count": 6118,
+            "max": [
+                0.990144431591034,
+                0.9999967217445374,
+                0.998186469078064,
+                1.0
+            ],
+            "min": [
+                -0.9995461702346802,
+                -0.995860993862152,
+                -0.9998493194580078,
+                -1.0
+            ],
+            "type": "VEC4"
+        },
+        {
+            "name": "base_GEOShape#0/vertices/TEXCOORD_0",
+            "bufferView": 3,
+            "byteOffset": 182440,
+            "componentType": 5126,
+            "count": 6118,
+            "max": [
+                0.1981399953365326,
+                1.154116988182068
+            ],
+            "min": [
+                -0.1981399953365326,
+                0.8458830118179321
+            ],
+            "type": "VEC2"
+        }
+    ],
+    "bufferViews": [
+        {
+            "name": "CUF26MTBY160_COURTMODE_SHO_Y/data/indices-2",
+            "buffer": 0,
+            "byteOffset": 1388304,
+            "byteLength": 252024,
+            "target": 34963
+        },
+        {
+            "name": "CUF26MTBY160_COURTMODE_SHO_Y/data/vertices-12",
+            "buffer": 0,
+            "byteOffset": 462768,
+            "byteLength": 694152,
+            "byteStride": 12,
+            "target": 34962
+        },
+        {
+            "name": "CUF26MTBY160_COURTMODE_SHO_Y/data/vertices-16",
+            "buffer": 0,
+            "byteOffset": 0,
+            "byteLength": 462768,
+            "byteStride": 16,
+            "target": 34962
+        },
+        {
+            "name": "CUF26MTBY160_COURTMODE_SHO_Y/data/vertices-8",
+            "buffer": 0,
+            "byteOffset": 1156920,
+            "byteLength": 231384,
+            "byteStride": 8,
+            "target": 34962
+        }
+    ],
+    "buffers": [
+        {
+            "name": "CUF26MTBY160_COURTMODE_SHO_Y/data",
+            "byteLength": 1640328,
+            "uri": "CUF26MTBY160_COURTMODE_SHO_Y0.bin"
+        }
+    ],
+    "extensionsUsed": [
+        "KHR_materials_unlit",
+        "KHR_materials_ior",
+        "KHR_materials_specular",
+        "KHR_materials_clearcoat",
+        "KHR_materials_sheen",
+        "KHR_materials_transmission",
+        "KHR_texture_transform",
+        "KHR_materials_volume"
+    ]
+}
